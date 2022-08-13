@@ -21,7 +21,7 @@ int print_c(va_list);
 int print_s(va_list);
 int print_d(va_list);
 int print_i(va_list);
-char *itob(va_list list)
+char *itob(va_list list);
 int print_percent(va_list);
 int _printf(const char *format, ...);
 int _print_char(va_list);
