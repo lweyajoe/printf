@@ -22,3 +22,11 @@ Here we will apply the knowledge that we have acquired during the learning of th
 =========
 - [Joseph Lweya](https://github.com/lweyajoe).
 - [Byron Odhiambo](https://github.com/byron-miller).
+
+----------------------------------------------
+**Specifier-Output Summary**
+============================
+
+<p align="center">
+  <img width="70%" height="70%" src="https://github.com/lweyajoe/printf/blob/main/specifier-output.jpeg" alt="Specifier-Output">
+</p>
